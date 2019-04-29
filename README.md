@@ -1,18 +1,17 @@
 # HTML Issue Bot 9000
 
-## Problem Statement
-
-Let's practice using the W3C's HTML Validator!
-
-## Objectives
+## Learning Goals
 
 1. Correct invalid HTML to be valid
 
+## Introduction
+
+Let's practice using the W3C's HTML Validator!
+
 ## Correct Invalid HTML To Be Valid
 
-In this lab we'll use the W3C Validator to make our invalid HTML happy!
-You might need to change how you work this problem depending on your 
-work environment. Either way you'll learn to fix invalid HTML.
+In this lab, we'll use the W3C Validator to make our invalid HTML happy!
+You might need to change how you work this problem depending on your work environment. Either way, you'll learn to fix invalid HTML.
 
 ### Tasks for LearnIDE Environment Users
 
@@ -24,7 +23,7 @@ work environment. Either way you'll learn to fix invalid HTML.
 2. Clone your fork locally.
 3. `cd` into the local repo you just cloned.
 
-In this lesson we'll be taking the provided `index.html` file and will get
+In this lesson, we'll be taking the provided `index.html` file and will get
 feedback from the W3C validator about it.
 
 ### Steps
@@ -53,7 +52,5 @@ To move to the next lesson, type `learn submit`.
 ## Resources
 
 * [W3C HTML Validator - Validate Direct Input][VBI]
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-issue-bot-9000' title='HTML Issue Bot 9000'>HTML Issue Bot 9000</a> on Learn.co and start learning to code for free.</p>
 
 [VBI]: http://validator.w3.org/#validate_by_input
